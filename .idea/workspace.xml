@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2934184a-a35d-4478-be7a-67a13fe53b95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/auth/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/connect/form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/connect/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/design/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/design/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/theme/theme-provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/theme/theme-toggle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/hooks/use-session.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/utils/iron-session-lib.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/services/instances.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/services/instances.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +62,23 @@
     "javascript.nodejs.core.library.configured.version": "18.18.2",
     "javascript.nodejs.core.library.typings.version": "18.18.14",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/hecterbonha/Projects/waku",
+    "last_opened_file_path": "/home/hecterbonha/Projects/bored",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
+    "prettierjs.PrettierConfiguration.Package": "/home/hecterbonha/Projects/prototype/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "ts.external.directory.path": "/home/hecterbonha/Projects/prototype/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/connect" />
       <recent name="$PROJECT_DIR$/components" />
     </key>
   </component>
@@ -72,6 +93,8 @@
       <workItem from="1709348335295" duration="5664000" />
       <workItem from="1709397392910" duration="64000" />
       <workItem from="1709428792270" duration="1704000" />
+      <workItem from="1709575007511" duration="200000" />
+      <workItem from="1709578526724" duration="6591000" />
     </task>
     <servers />
   </component>
@@ -81,5 +104,9 @@
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

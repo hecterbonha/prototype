@@ -1,6 +1,7 @@
 import dynamic from "next/dynamic";
 import type { Metadata } from "next";
 import { Heading } from "@/components/typography";
+import ThemeToggle from "@/components/theme/theme-toggle";
 
 const Console = dynamic(() => import("@/components/console"), {
   loading: () => <></>,
@@ -18,6 +19,7 @@ export default function Home() {
         <Heading>hello darkness my old friend</Heading>
       </main>
       <Console />
+      <ThemeToggle />
     </>
   );
 }
