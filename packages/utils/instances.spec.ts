@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { proxy } from "@/packages/services/instances";
+import { proxy } from "@/packages/utils/instances";
 
 describe("instances test", () => {
   it("should have client instances", () => {

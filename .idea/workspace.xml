@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2934184a-a35d-4478-be7a-67a13fe53b95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/(landing)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(landing)/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/design/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/design/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/services/instances.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/utils/instances.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/services/instances.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/utils/instances.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Docker.Dockerfile.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
@@ -50,7 +51,7 @@
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.18.2&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.18.14&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/hecterbonha/Projects/bored&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hecterbonha/Projects/swivle&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -59,16 +60,39 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/hecterbonha/Projects/prototype/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/home/hecterbonha/Projects/prototype/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/utils" />
       <recent name="$PROJECT_DIR$/app/connect" />
       <recent name="$PROJECT_DIR$/components" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -83,7 +107,16 @@
       <workItem from="1709428792270" duration="1704000" />
       <workItem from="1709575007511" duration="200000" />
       <workItem from="1709578526724" duration="8848000" />
-      <workItem from="1709589923377" duration="2301000" />
+      <workItem from="1709589923377" duration="3421000" />
+      <workItem from="1709661471412" duration="54000" />
+      <workItem from="1709673592169" duration="2677000" />
+      <workItem from="1711440936881" duration="133000" />
+      <workItem from="1711575407239" duration="1277000" />
+      <workItem from="1711577090131" duration="285000" />
+      <workItem from="1711577420610" duration="27000" />
+      <workItem from="1711577457315" duration="461000" />
+      <workItem from="1711577937055" duration="56000" />
+      <workItem from="1712096347670" duration="29000" />
     </task>
     <servers />
   </component>

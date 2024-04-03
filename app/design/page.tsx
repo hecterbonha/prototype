@@ -7,7 +7,12 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <div>
-      <h1>Design</h1>
+      <div className="p-4">
+        <p className="font-mono font-light text-sm">{"<Heading />"}</p>
+        <h1 className="text-4xl font-extrabold font-sans">
+          What needs to be done then?
+        </h1>
+      </div>
     </div>
   );
 }
