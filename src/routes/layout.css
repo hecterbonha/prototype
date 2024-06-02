@@ -1,0 +1,10 @@
+:root {
+    --background-color: #000000;
+    --text-color: #f9f9f9;
+}
+
+* {
+    font-family: 'M PLUS 2 Variable', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
